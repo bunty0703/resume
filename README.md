@@ -1,0 +1,1 @@
+This Python project is designed to help users create and manage professional resumes in various formats, such as PDF, Word document, or plain text. The project provides a user-friendly command-line interface (CLI) to guide users through the process of building their resumes.
